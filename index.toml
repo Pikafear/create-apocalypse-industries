@@ -1,11 +1,121 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "3fcc71cdad8647f8b1af3f15a5b0b3e5c8ca8d76a5ff6b0d096c880bdbc2f7d8"
+metafile = true
+
+[[files]]
+file = "mods/attract-to-sound.pw.toml"
+hash = "b10bce6bc9c380a03ce57060efe917a4c60a9a4896dad170b163398b8bab134c"
+metafile = true
+
+[[files]]
+file = "mods/bbl-strainers.pw.toml"
+hash = "47b2369a257c13ad4d4c821cb2ea3aee909703244f6035ed4122167d0d757e06"
+metafile = true
+
+[[files]]
+file = "mods/create-vintage-(unofficial-port).pw.toml"
+hash = "bbbdb7eef5eac472b2f41b46a69aa01fdb68c0b82999df5f92178cf8f5cf2570"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "a7a202c25a36c3e7c20ef1696dad2243a76625211f80db813dbbcb84c35c4488"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "936cea5edc30df0fd4d7939c73d94f6f9b6c1304620c4d4c4a3bc831ef6d7a91"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ffb55dc7c35521b4e3fe36716321b9cf3ca11673bb6e511c63de8e5ec7d29541"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "e3821b3cb161f7ae9cb0d773e54658262ac8f562da879ae4da4577c07ddb4884"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "8f9cfa61518cb3f9a1bca32ff2a50d39bb5dc33041a34cbe292462f6cefa3069"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "005494e0aa66f4ffb77a0193f22c0c21ee75e1a1274b19922b09ed767340f346"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
