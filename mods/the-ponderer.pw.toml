@@ -1,0 +1,13 @@
+name = "Ponderer - 思索者"
+filename = "ponderer-1.21.1-neoforge-1.10.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/voXQB5Hr/versions/WTBoHB1r/ponderer-1.21.1-neoforge-1.10.4.jar"
+hash-format = "sha512"
+hash = "3f2c76d5320ea7ea9eabddb0f5ca06eeafdfc85e63c334af4b0877eb0526480746a6f4996a9a12af8b17604b283f56f46cfe45c562b63e3ada12c44c689ef41c"
+
+[update]
+[update.modrinth]
+mod-id = "voXQB5Hr"
+version = "WTBoHB1r"
