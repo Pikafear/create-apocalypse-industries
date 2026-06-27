@@ -1,0 +1,13 @@
+name = "Project: Vibrant Journeys"
+filename = "projectvibrantjourneys-1.21.1-7.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z8Xbk4yv/versions/j3Gv8nMk/projectvibrantjourneys-1.21.1-7.0.6.jar"
+hash-format = "sha512"
+hash = "a132873ea3cfe04490da9684f54d4d2ddcb20f69042ade9ded48667c1e0868ebe512df1f4e925d1b4c11b780c75f461d3a97c36b07468594c7aa9d1379956686"
+
+[update]
+[update.modrinth]
+mod-id = "Z8Xbk4yv"
+version = "j3Gv8nMk"

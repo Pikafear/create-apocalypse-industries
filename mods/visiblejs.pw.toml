@@ -1,0 +1,13 @@
+name = "VisibleJS"
+filename = "visiblejs-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cbb0b0cba3129dd80bde63c34ddaf1c5c99f56a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8209955
+project-id = 1540906
