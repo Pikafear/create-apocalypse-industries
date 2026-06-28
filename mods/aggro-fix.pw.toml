@@ -1,0 +1,13 @@
+name = "Aggro Fix"
+filename = "aggrofix-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sadaZczX/versions/t9FUgVHF/aggrofix-2.0.2.jar"
+hash-format = "sha512"
+hash = "39f3c3030d28aa4d619c0cf5df4e91feb0fbfdb1b2b4ee6d94f6da38ae170577b87afe497744efbcd2cf848e675a3fb381eb2e74827ce53f53293ee71e841534"
+
+[update]
+[update.modrinth]
+mod-id = "sadaZczX"
+version = "t9FUgVHF"

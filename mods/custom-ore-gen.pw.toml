@@ -1,0 +1,13 @@
+name = "Custom Ore Gen"
+filename = "custom_ore_gen-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "512ff28b4970db28cc8488aa62764a09204f9ff6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7598645
+project-id = 1422998

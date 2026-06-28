@@ -1,0 +1,13 @@
+name = "Dynamic Height"
+filename = "dynamicheight-0.3.5+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QuEOEjb5/versions/KUDC8Jhh/dynamicheight-0.3.5%2Bneoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1f6724b470c9db9c03d0169b7bd1f3857e4f23c4f08b83c5f27d0194639253d1d096272b60c7e54ceecb8f5aad930055a535daffee17d25a6cc1a7fac628d24a"
+
+[update]
+[update.modrinth]
+mod-id = "QuEOEjb5"
+version = "KUDC8Jhh"

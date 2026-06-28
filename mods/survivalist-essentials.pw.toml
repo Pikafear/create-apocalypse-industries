@@ -1,0 +1,13 @@
+name = "Survivalist Essentials"
+filename = "survivalistessentials-1.21.1-neoforge-6.3.1.5-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hFW7KOhm/versions/nGRZAQLS/survivalistessentials-1.21.1-neoforge-6.3.1.5-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "0d26aa13b1b30845e3f6b6716f91eef8c4eeacc9758fb28a11fa580521734bb16b99f3d05f8f80ff022ac6e2b647b12b5aa33c26eac564dc0cdf5d5f45c86fdf"
+
+[update]
+[update.modrinth]
+mod-id = "hFW7KOhm"
+version = "nGRZAQLS"

@@ -1,0 +1,13 @@
+name = "SDM Loot Stages"
+filename = "sdm-loot-stages-neoforge-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "751be6e6727c1a2fe84e492f0171444e594069dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141888
+project-id = 892244
