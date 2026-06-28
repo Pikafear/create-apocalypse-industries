@@ -1,0 +1,13 @@
+name = "Zombie Apocalypse Core [ZAC]"
+filename = "zac-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VJGH7a5j/versions/1rI11Qb4/zac-1.1.0.jar"
+hash-format = "sha512"
+hash = "4947316c781902bee808fb22c397624ef8ace37ff2746fb487620bbb2409331b89efa4fa0dfd525e446c89fe446a6aed1b6868cd2c5768135dede13386fe6255"
+
+[update]
+[update.modrinth]
+mod-id = "VJGH7a5j"
+version = "1rI11Qb4"

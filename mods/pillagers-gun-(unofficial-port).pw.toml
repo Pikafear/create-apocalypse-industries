@@ -1,0 +1,13 @@
+name = "Pillager’s Gun (Unofficial Port)"
+filename = "pillagers_gun-3.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OU2Rfx0G/versions/PP4WIKdr/pillagers_gun-3.3.4.jar"
+hash-format = "sha512"
+hash = "cb62d089b6500bf4c48593a06a06211216e37f87e4629e84bb8637cfc743a45c4d33c9566d436b2b530785ab25d4e8c16b44b8113b3af9c0de182c717ae10d73"
+
+[update]
+[update.modrinth]
+mod-id = "OU2Rfx0G"
+version = "PP4WIKdr"

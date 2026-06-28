@@ -1,0 +1,13 @@
+name = "Adult Zombies Only"
+filename = "adult-zombies-only-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PZAn36Eb/versions/DtGJg25E/adult-zombies-only-0.1.jar"
+hash-format = "sha512"
+hash = "bf0048e24c1b0240a92143a8a62b8fa71cc88016ac4d22921cea3a1592387416cec7b19a4717cc7a336a043b4c8abf8cdc8c752a850d7160e9bf81635d44e74c"
+
+[update]
+[update.modrinth]
+mod-id = "PZAn36Eb"
+version = "DtGJg25E"

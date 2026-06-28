@@ -1,0 +1,13 @@
+name = "Weaker day zombie"
+filename = "weaker_day_zombie_neoforge-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3c428c9253c9634289e3d0520dcebaabbb20361"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7196572
+project-id = 944090

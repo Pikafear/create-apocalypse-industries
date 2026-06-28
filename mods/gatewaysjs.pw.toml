@@ -1,0 +1,13 @@
+name = "gatewaysjs"
+filename = "gatewaysjs-1.7-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d274ec06a8bcca4c8ce8b2cc4a9ccda9c5dc3b8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8303961
+project-id = 1508814

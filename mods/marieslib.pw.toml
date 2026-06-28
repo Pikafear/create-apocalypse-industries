@@ -1,0 +1,13 @@
+name = "MariesLib"
+filename = "marieslib-0.1.1-beta.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VA0Qgf4B/versions/Dy2TnWaj/marieslib-0.1.1-beta.2.jar"
+hash-format = "sha512"
+hash = "bbf409e0abcfe10f71997753cf58ed816a2ab16ffb307669c0c9d4f855e2503cccfddd575f152c3f5efc82b7d63cb1920e1bae4662e1b2a659bdbdad52963779"
+
+[update]
+[update.modrinth]
+mod-id = "VA0Qgf4B"
+version = "Dy2TnWaj"

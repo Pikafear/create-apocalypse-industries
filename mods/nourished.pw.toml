@@ -1,0 +1,13 @@
+name = "Nourished"
+filename = "nourished-0.2.6-beta.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gXy6YNys/versions/Pi3suxDo/nourished-0.2.6-beta.4.jar"
+hash-format = "sha512"
+hash = "79f65f2ac3cfdb755e8ef43b0073f6f1190d121733f8010081ffd46b1ffd60efcf337448ab7e9d6dfc013d04e523b4c92881673c33b2766862305b86db04c82d"
+
+[update]
+[update.modrinth]
+mod-id = "gXy6YNys"
+version = "Pi3suxDo"

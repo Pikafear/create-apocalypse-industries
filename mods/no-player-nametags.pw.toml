@@ -1,0 +1,13 @@
+name = "No Player Nametags"
+filename = "no-player-nametags-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NJYLZYQk/versions/sDiYbqUY/no-player-nametags-4.jar"
+hash-format = "sha512"
+hash = "d627cd19dff34ac36ccdb8f61144b093195885b4bd22b65db3c260fc82d1b9fd43d107bfabae067d0970a7e906a9a5d5b5248de90ff7398ea030329ec0c0e9e5"
+
+[update]
+[update.modrinth]
+mod-id = "NJYLZYQk"
+version = "sDiYbqUY"

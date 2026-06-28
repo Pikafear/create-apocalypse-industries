@@ -1,0 +1,13 @@
+name = "Armor Damage Limit"
+filename = "ArmorDamageLimit-neoforge-1.21.1-1.21.4-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1CVpKaSj/versions/vDzVPUBu/ArmorDamageLimit-neoforge-1.21.1-1.21.4-1.0.1.jar"
+hash-format = "sha512"
+hash = "08cb0f542d55b8a517886a57c3d9824fda5b2dbab4e20f048191eb0559cfa33e457cf0b0c8e0ded7949964626d13ae0f29a907ba4f24aae6dee92dcd16ec8d9e"
+
+[update]
+[update.modrinth]
+mod-id = "1CVpKaSj"
+version = "vDzVPUBu"

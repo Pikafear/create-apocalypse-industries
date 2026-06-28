@@ -1,0 +1,13 @@
+name = "Zombies Hates Light"
+filename = "zombieshateslight-neoforge-1.21.1-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XfA4EVN/versions/zeUuCJrt/zombieshateslight-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "6db84e30d12c78e5e08e9f15d94a6c4ee8fa843d000338d3562945393b3a200b3c9f04fc49fa980e978b4d1728bbfebe1b5949045b6488f2da522ec51a2ea9ac"
+
+[update]
+[update.modrinth]
+mod-id = "1XfA4EVN"
+version = "zeUuCJrt"

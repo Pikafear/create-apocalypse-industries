@@ -1,0 +1,13 @@
+name = "CustomMeteorJS"
+filename = "CustomMeteorJS-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DyhRu9yo/versions/GSQUhzdw/CustomMeteorJS-0.0.3.jar"
+hash-format = "sha512"
+hash = "5ee78ab79eb98c06ef61d0ccc8966c0aa57f2f5d98be36eb162937edd3e90dca991872fec619118e697088eac8155a8ec89ebbba7bc8df9cce9881963dd87dc2"
+
+[update]
+[update.modrinth]
+mod-id = "DyhRu9yo"
+version = "GSQUhzdw"

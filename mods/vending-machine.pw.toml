@@ -1,0 +1,13 @@
+name = "vending machine"
+filename = "vending-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zkCXhAUC/versions/UV1ozUI8/vending-1.0.1.jar"
+hash-format = "sha512"
+hash = "91ddb64e4833cb57d2a7e80fa1a3d5da8a648479c8d7a84bd3b338c7ae879c6cd86ffc8046a70545e327b00bc0aff201fee57c03a63935a889c1d9da67dcc0dc"
+
+[update]
+[update.modrinth]
+mod-id = "zkCXhAUC"
+version = "UV1ozUI8"

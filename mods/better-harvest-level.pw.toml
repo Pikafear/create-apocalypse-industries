@@ -1,0 +1,13 @@
+name = "Better Harvest Level"
+filename = "betterharvestlevel-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9ZHPD94/versions/Tt8tSnXR/betterharvestlevel-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "fcd18867dedda811d2f8e2cfff153a7c8535c40d93ff87ad36107bd3b2715bfcf03f22711eef7cccbf22041fdcbb634838929b4af7487b62c049cf9a026cdafc"
+
+[update]
+[update.modrinth]
+mod-id = "z9ZHPD94"
+version = "Tt8tSnXR"

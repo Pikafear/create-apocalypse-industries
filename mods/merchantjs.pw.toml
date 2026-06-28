@@ -1,0 +1,13 @@
+name = "MerchantJS"
+filename = "merchantjs-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e784c4b50876c1d225d66df70298e14565d59d66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7195368
+project-id = 1372753

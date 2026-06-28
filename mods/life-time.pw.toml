@@ -1,0 +1,13 @@
+name = "LifeTime"
+filename = "LifeTime-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulYgRePv/versions/j9Tz9NEt/LifeTime-1.0.0.jar"
+hash-format = "sha512"
+hash = "eb6ec1d7cc357ef77b9f91226f0207efdf8451ffa50105691bf678e30d09460cf8b168bb4f37c1f36696eea91923c4eb150c12b87b4ac58126401cbafe3d54e6"
+
+[update]
+[update.modrinth]
+mod-id = "ulYgRePv"
+version = "j9Tz9NEt"

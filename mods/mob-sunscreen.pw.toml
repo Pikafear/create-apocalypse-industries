@@ -1,0 +1,13 @@
+name = "Mob Sunscreen"
+filename = "mobsunscreen-4.0.0-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rWSwwjTs/versions/Y3rWuCQ3/mobsunscreen-4.0.0-NeoForge.jar"
+hash-format = "sha512"
+hash = "5a6bfb27b80b4358d6bab629232aa46f4b22be289a198a2425e67da214efb6fbb79b0769749529a9768d2a7583efd5d100d0ca61330cd0af99c8dc2b8a18ea56"
+
+[update]
+[update.modrinth]
+mod-id = "rWSwwjTs"
+version = "Y3rWuCQ3"

@@ -1,0 +1,13 @@
+name = "VS Unofficial Neoforge Port"
+filename = "valkyrienskies-1-21-1-2.3.0-beta.8+35e8864bfe_unofficial.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GE25t0ct/versions/ydwKKEiQ/valkyrienskies-1-21-1-2.3.0-beta.8%2B35e8864bfe_unofficial.jar"
+hash-format = "sha512"
+hash = "afecfb5d29afad4509f5113a47c521acc8d0f5ff5d77c1bbd4d010db301d9eefd6d7d4ceab8ed033c6aa249b891a64e694354e7cdb06f9de6cad88979feebb6b"
+
+[update]
+[update.modrinth]
+mod-id = "GE25t0ct"
+version = "ydwKKEiQ"

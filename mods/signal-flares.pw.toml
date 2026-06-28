@@ -1,0 +1,13 @@
+name = "Signal Flares"
+filename = "signal_flares-1.7.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4fc313c2819361a8fe738b888859ecbc5686db4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8285959
+project-id = 1166889
